@@ -1,0 +1,105 @@
+{
+   "routes": [
+      {
+         "origin": "Vydehi Hospital Whitefield",
+         "destination": "Casa Gopalan Borewell Road"
+      },
+      {
+         "origin": "Kundalahalli Metro Station",
+         "destination": "Seetharampalya Metro Station"
+      },
+      {
+         "origin": "Jagriti Theatre",
+         "destination": "Brigade Utopia"
+      },
+      {
+         "origin": "Varthur Gas Station",
+         "destination": "Brigade Utopia"
+      },
+      {
+         "origin": "Gopalan Signature Mall",
+         "destination": "Halasuru Metro Station"
+      },
+      {
+         "origin": "KR Puram Metro Station",
+         "destination": "Kasturi Nagar (ORR Skywalk)"
+      },
+      {
+         "origin": "Kadugodi Metro Station",
+         "destination": "MVJ College Channasandra"
+      },
+      {
+         "origin": "Whitefield Police Station",
+         "destination": "Whitefield (Kadugodi) Metro Station"
+      },
+      {
+         "origin": "Marathahalli Bridge",
+         "destination": "Thubarahalli"
+      },
+      {
+         "origin": "Silk Board Junction",
+         "destination": "Agara Flyover"
+      },
+      {
+         "origin": "RV Road Metro",
+         "destination": "Silk Board (BTM Side)"
+      },
+      {
+         "origin": "Bellandur (Intel-ORR)",
+         "destination": "Silk Board Junction"
+      },
+      {
+         "origin": "Kadubeesanahalli Bridge",
+         "destination": "Bellandur (Intel-ORR)"
+      },
+      {
+         "origin": "Marathahalli ORR",
+         "destination": "Kadubeesanahalli Bridge"
+      },
+      {
+         "origin": "Sobha Dream Acres (Balagere Road)",
+         "destination": "Kadubeesanahalli Bridge"
+      },
+      {
+         "origin": "Marathahalli ORR",
+         "destination": "Silk Board Junction"
+      },
+      {
+         "origin": "Marathahalli ORR",
+         "destination": "Agara Flyover"
+      },
+      {
+         "origin": "Thubarahalli",
+         "destination": "Manipal Hospital Old Airport Road"
+      },
+      {
+         "origin": "Marathahalli ORR",
+         "destination": "Bellandur (Intel-ORR)"
+      },
+      {
+         "origin": "Marathahalli ORR",
+         "destination": "KR Puram Metro Station"
+      },
+      {
+         "origin": "KR Puram Metro Station",
+         "destination": "Silk Board Junction"
+      },
+      {
+         "origin": "Varthur Kodi",
+         "destination": "Hope Farm Junction"
+      },
+      {
+         "origin": "Hope Farm Junction",
+         "destination": "Hoskote Toll Plaza"
+      },
+      {
+         "origin": "Hoskote Toll Plaza",
+         "destination": "Hoskote STRR Interchange"
+      },
+      {
+         "origin": "Hoskote STRR Interchange",
+         "destination": "Varthur Kodi"
+      }
+
+   ]
+}
