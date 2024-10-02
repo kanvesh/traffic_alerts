@@ -19,13 +19,17 @@ import json
 from getduration import getDuration
 from math import ceil
 
+from dotenv import load_dotenv
+import os
 
+load_dotenv()
+
+ola_api_key = os.getenv('ola_api_key')
 
 #load_dotenv()
 
 #api_key = os.environ['OLA_API_KEY']
 
-api_key = 'mzWRHcgLLvEvxVftlqKF3o0foKXWkzSUHds9vANS'
 
 routes = json.load(open('routes.json','r'))
 
@@ -34,12 +38,12 @@ routes_with_times=[]
 
 for route in routes['routes']:
 	#onward journey
-    traffic_duration_results = getDuration(route['origin'],route['destination'], api_key)
+    traffic_duration_results = getDuration(route['origin'],route['destination'], ola_api_key)
     traffic_duration_results['ist_timestamp'] = ind_time
     routes_with_times.append(traffic_duration_results)
 
     #return journey
-    traffic_duration_results = getDuration(route['destination'], route['origin'], api_key)
+    traffic_duration_results = getDuration(route['destination'], route['origin'], ola_api_key)
     traffic_duration_results['ist_timestamp'] = ind_time
     routes_with_times.append(traffic_duration_results)
 
