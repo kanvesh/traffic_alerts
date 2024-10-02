@@ -4,10 +4,10 @@
 * Results are stored as logs and the are also pushed to a mysql on pythonanywhere
 * The SQL table is downloaded and served as data source to a Tableau Public visualization (because mysql database connection not allowed on tableau public)
 
-SQL Table Screenshot
+### SQL Table Screenshot
 
 <img src="sql_screenshot.png" width="400">
 
-Tableau Screenshot
+### Tableau Screenshot
 
 <img src="tableau_screenshot.png" width="400">
