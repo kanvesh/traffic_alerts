@@ -5,4 +5,4 @@
 * The SQL table is downloaded and served as data source to a Tableau Public visualization (because mysql database connection not allowed on tableau public)
 
 <img src="sql_screenshot.png" width="400">
-<img src="tableau_screenshot" width="400">
+<img src="tableau_screenshot.png" width="400">
