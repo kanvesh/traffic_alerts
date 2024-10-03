@@ -3,6 +3,7 @@
 * Job is hosted on pythonanywhere.com and runs every 15 mints
 * Results are stored as logs and the are also pushed to a mysql on pythonanywhere
 * The SQL table is downloaded and served as data source to a Tableau Public visualization (because mysql database connection not allowed on tableau public)
+* Need to find a way to refresh the Tableau server automatically (maybe through google drive?)
 
 ### SQL Table Screenshot
 
