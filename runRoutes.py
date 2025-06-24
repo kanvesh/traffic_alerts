@@ -1,4 +1,4 @@
-import os
+import os, sys
 import pandas as pd
 from pytz import timezone
 from datetime import datetime
@@ -7,6 +7,9 @@ from append_to_sql_table import append_to_table
 from download_mysql_table import download_table
 
 ind_time = datetime.now(timezone("Asia/Kolkata")).strftime('%Y-%m-%d %H:%M:%S')
+
+
+
 print(ind_time)
 filename = re.sub('\W+','',ind_time)  #filename for logs
 
@@ -52,4 +55,7 @@ df.to_csv('logs/'+filename+'.csv', index=False) #save result to log file
 append_to_table(df,'traffic_data')  #save results to a sql table
 
 download_table() #save table to csv
+
+
+
 
