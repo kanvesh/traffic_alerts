@@ -2,7 +2,7 @@ import requests
 import json
 
 
-stored_places = json.load(open('places_with_latlong.json','r'))
+stored_places = json.load(open('/home/decentgrad/traffic_alerts/places_with_latlong.json','r'))
 
 url = "https://api.olamaps.io/places/v1/geocode"
 

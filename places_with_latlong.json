@@ -177,5 +177,83 @@
     "lng": 77.822543,
     "lat": 13.084284
  }
+},
+"ITPL Backgate": {
+ "location": {
+    "lng": 77.733759,
+    "lat": 12.984979
+ }
+},
+"Nallurahalli Lake": {
+ "location": {
+    "lng": 77.733572,
+    "lat": 12.975451
+ }
+},
+"Vaswani ECC Road": {
+ "location": {
+    "lng": 77.737569,
+    "lat": 12.977693
+ }
+},
+"Shiva Temple Nallurahalli": {
+ "location": {
+    "lng": 77.733132,
+    "lat": 12.963580
+ }
+},
+"Siddapura Junction": {
+ "location": {
+    "lng": 77.731046,
+    "lat": 12.956232
+ }
+},
+"Brigade IRV": {
+ "location": {
+    "lng": 77.730621,
+    "lat": 12.970922
+ }
+},
+"Kaavu": {
+ "location": {
+    "lng": 77.732726,
+    "lat": 12.961292
+ }
+},
+"Parthu Pride": {
+ "location": {
+    "lng": 77.731174,
+    "lat": 12.968245
+ }
+},
+"Sumadhura Borewell": {
+ "location": {
+    "lng": 77.738836,
+    "lat": 12.969203
+ }
+},
+"Tesco Gate": {
+ "location": {
+    "lng": 77.727037,
+    "lat": 12.974158
+ }
+},
+"Aditya Serene": {
+ "location": {
+    "lng": 77.730795,
+    "lat": 12.966023
+ }
+},
+"Vivero Borewell": {
+ "location": {
+    "lng": 77.748873,
+    "lat": 12.967988
+ }
+},
+"Outer Circle Whitefield": {
+ "location": {
+    "lng": 77.748233,
+    "lat": 12.969739
+ }
 }
 }

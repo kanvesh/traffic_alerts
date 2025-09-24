@@ -97,8 +97,28 @@
          "destination": "Hoskote STRR Interchange"
       },
       {
-         "origin": "Hoskote STRR Interchange",
-         "destination": "Varthur Kodi"
+         "origin": "Sumadhura Borewell",
+         "destination": "ITPL Backgate"
+      },
+      {
+         "origin": "Siddapura Junction",
+         "destination": "Sumadhura Borewell"
+      },
+      {
+         "origin": "Parthu Pride",
+         "destination": "Siddapura Junction"
+      },
+      {
+         "origin": "ITPL Backgate",
+         "destination": "Vaswani ECC Road"
+      },
+      {
+         "origin": "Nallurahalli Lake",
+         "destination": "Kaavu"
+      },
+      {
+         "origin": "Nallurahalli Lake",
+         "destination": "Sumadhura Borewell"
       }
 
    ]

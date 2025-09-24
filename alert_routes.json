@@ -1,0 +1,14 @@
+{
+   "routes": [
+      {
+         "origin": "Siddapura Junction",
+         "destination": "Shiva Temple Nallurahalli",
+         "name": "Shiva Temple"
+      },
+      {
+         "origin": "Sumadhura Borewell",
+         "destination": "Brigade IRV",
+         "name": "Nallurahalli Junction"
+      }
+   ]
+}

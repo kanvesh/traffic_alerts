@@ -1,6 +1,6 @@
 import requests
 
-def send_message(text='hello', chat_id= '6220958701', bot_token='7685380393:AAEymOd4aieB8tz-krxOLJi_Y2UfWJh-TeI'):
+def send_message(text='script is running', chat_id= '-4812253274', bot_token='7852722952:AAFeGz4HET5UQTNbobGbv0VlV9v9Qh1Ke48'):
     BOT_TOKEN = bot_token
     CHAT_ID = chat_id
     MESSAGE = text
@@ -14,13 +14,13 @@ def send_message(text='hello', chat_id= '6220958701', bot_token='7685380393:AAEy
     response = requests.post(url, data=payload)
 
     if response.status_code == 200:
-        print("Message sent successfully!")
+        print(text)
         return 0
     else:
         print("Failed to send message:", response.text)
         return 1
 
 
-send_message('success')
+
 
 
